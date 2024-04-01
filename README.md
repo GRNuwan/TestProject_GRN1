@@ -1,2 +1,2 @@
-# TestProject_GRN1
+# testproject
 test project
